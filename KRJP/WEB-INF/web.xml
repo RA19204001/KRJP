@@ -1,0 +1,74 @@
+<web-app>
+	<servlet>
+		<servlet-name>ThreadListServlet</servlet-name>
+		<servlet-class>ThreadListServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ThreadListServlet</servlet-name>
+		<url-pattern>/ThreadListServlet</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>ResponseServlet</servlet-name>
+		<servlet-class>ResponseServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ResponseServlet</servlet-name>
+		<url-pattern>/ResponseServlet</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>CreateThreadServlet</servlet-name>
+		<servlet-class>CreateThreadServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>CreateThreadServlet</servlet-name>
+		<url-pattern>/CreateThreadServlet</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>CreateResponseServlet</servlet-name>
+		<servlet-class>CreateResponseServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>CreateResponseServlet</servlet-name>
+		<url-pattern>/CreateResponseServlet</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>index</servlet-name>
+		<jsp-file>/index.jsp</jsp-file>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>index</servlet-name>
+		<url-pattern>/index</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>threadList</servlet-name>
+		<jsp-file>/threadList.jsp</jsp-file>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>threadList</servlet-name>
+		<url-pattern>/threadList</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>response</servlet-name>
+		<jsp-file>/response.jsp</jsp-file>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>response</servlet-name>
+		<url-pattern>/response</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>created</servlet-name>
+		<jsp-file>/created.jsp</jsp-file>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>created</servlet-name>
+		<url-pattern>/created</url-pattern>
+	</servlet-mapping>
+	
+</web-app>

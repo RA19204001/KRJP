@@ -1,0 +1,139 @@
+h1 {
+  line-height: 1.4;
+  font-family:'Bookman Old Style';
+  font-size:28px;
+  color: #F00;
+  padding:0.25em 1em;
+  display: inline-block;
+  top:0;
+}
+
+#dwrite{
+	width: 2.6%;
+  height: 36%;
+  position: fixed;
+  right: 0.4%;
+  top: 15.3%;
+  background: #B0B0B0;
+  opacity: 0.6;
+  
+}
+
+#dwrite a{
+	position: relative;
+  display: block;
+  width: 50px;
+  height: 50px;
+  text-decoration: none;
+}
+#dwrite a{
+font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f102';
+  font-size: 25px;
+  color: #77FFFF;
+  position: absolute;
+  width: 40px;
+  height: 20px;
+  top: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
+}
+
+.font:hover{
+	color: #FF0000;
+}
+
+.font{
+	color:#0000FF;
+	text-decoration: underline;
+}
+
+
+
+.res{
+	z-index:  ;
+	 width: 93%;
+	  margin: 0.5em auto 0.75em auto;
+	   padding: 0.75em;
+	    border: 1px solid #333;
+	     border-radius: 0.75em / 0.75em;
+	     background: #FFF;
+	      font-size: 20px;
+}
+
+#timeSecond{
+	border-width:0px;
+	border-style:None;
+	background-color:#FFFFFF;
+	font-size: 18px;
+}
+
+#page_top{
+  width: 3.1%;
+  height: 7%;
+  position: fixed;
+  right: 0;
+  bottom: 2.1%;
+  background: #B0B0B0;
+  opacity: 0.6;
+}
+#page_top a{
+  position: relative;
+  display: block;
+  width: 50px;
+  height: 50px;
+  text-decoration: none;
+}
+#page_top a{
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f102';
+  font-size: 25px;
+  color: #77FFFF;
+  position: absolute;
+  width: 40px;
+  height: 25px;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
+}
+
+
+
+#top_page{
+  width: 2.6%;
+  height: 22%;
+  position: fixed;
+  left: 0.4%;
+  top: 15.3%;
+  background: #B0B0B0;
+  opacity: 0.6;
+}
+#top_page a{
+  position: relative;
+  display: block;
+  width: 50px;
+  height: 50px;
+  text-decoration: none;
+}
+#top_page a{
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f102';
+  font-size: 25px;
+  color: #77FFFF;
+  position: absolute;
+  width: 40px;
+  height: 20px;
+  top: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
+}

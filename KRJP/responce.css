@@ -1,0 +1,184 @@
+h1 {
+  line-height: 1.4;
+  font-family:'Bookman Old Style';
+  font-size:26px;
+  color: #F00;
+  padding:0.25em 1em;
+  display: inline-block;
+  top:0;
+}
+
+#dwrite{
+	width: 2.6%;
+  height: 22%;
+  position: fixed;
+  right: 0.5%;
+  top: 8%;
+  background: #B0B0B0;
+  opacity: 0.6;
+  
+}
+
+#dwrite a{
+	position: relative;
+  display: block;
+  width: 50px;
+  height: 50px;
+  text-decoration: none;
+}
+#dwrite a{
+font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f102';
+  font-size: 25px;
+  color: #77FFFF;
+  position: absolute;
+  width: 40px;
+  height: 20px;
+  top: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
+}
+
+
+
+.font{
+	font-weight: 600;
+}
+
+.center{
+	 text-align: center;
+}
+
+.res{
+	z-index:  1;
+	 width: 93%;
+	  margin: 0.5em auto 0.75em auto;
+	   padding: 0.75em;
+	    border: 1px solid #333;
+	    color: #333;
+	     border-radius: 0.75em / 0.75em;
+	     background: #FFF;
+	      font-size: 1.00em;
+}
+
+.namecolor{
+	color: #009900;
+	 
+}
+
+#page_top{
+  width: 3.1%;
+  height: 7%;
+  position: fixed;
+  right: 0;
+  bottom: 2.1%;
+  background: #B0B0B0;
+  opacity: 0.6;
+}
+#page_top a{
+  position: relative;
+  display: block;
+  width: 50px;
+  height: 50px;
+  text-decoration: none;
+}
+#page_top a{
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f102';
+  font-size: 25px;
+  color: #77FFFF;
+  position: absolute;
+  width: 40px;
+  height: 25px;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
+}
+
+
+
+#top_page{
+  width: 2.6%;
+  height: 22%;
+  position: fixed;
+  left: 0.5%;
+  top: 8%;
+  background: #B0B0B0;
+  opacity: 0.6;
+}
+#top_page a{
+  position: relative;
+  display: block;
+  width: 50px;
+  height: 50px;
+  text-decoration: none;
+}
+#top_page a{
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f102';
+  font-size: 25px;
+  color: #77FFFF;
+  position: absolute;
+  width: 40px;
+  height: 20px;
+  top: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
+}
+
+
+
+#thread_page{
+  width: 2.6%;
+  height: 37%;
+  position: fixed;
+  left: 0.5%;
+  top: 35%;
+  background: #B0B0B0;
+  opacity: 0.6;
+}
+#thread_page a{
+  position: relative;
+  display: block;
+  width: 50px;
+  height: 50px;
+  text-decoration: none;
+}
+#thread_page a{
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f102';
+  font-size: 25px;
+  color: #77FFFF;
+  position: absolute;
+  width: 40px;
+  height: 20px;
+  top: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
+}
+
+
+
+#dummy_thread_page{
+  width: 2.6%;
+  height: 37%;
+  position: fixed;
+  left: 0.5%;
+  top: 35%;
+  background: #B0B0B0;
+  opacity: 0;
+}
+
