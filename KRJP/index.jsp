@@ -6,14 +6,17 @@
 	<link rel="stylesheet" type="text/css" href="index.css" >
 </head>
 <body style="text-align:center;">
-	
-	
-	
+
+
+
 	<form method="post" action="ThreadListServlet">
 	<label><img src="img/logo.png" alt="ƒƒS"><br>
 	<input type="image" src="img/top.png" alt="‚è‚å‚¤‚¿‚á‚ñ‚Ë‚é"></label>
 	</form>
-	
+
+	<!-- XV‚Å‚«‚Ä‚é‚©‚ÈH -->>
+
 </body>
+
 
 </html>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="KRJP/WEB-INF/classes"/>
+	<classpathentry kind="lib" path="KRJP/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="KRJP/WEB-INF/lib/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="KRJP/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="KRJP/WEB-INF/classes"/>
+</classpath>
