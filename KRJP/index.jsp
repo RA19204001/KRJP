@@ -14,7 +14,6 @@
 	<input type="image" src="img/top.png" alt="‚è‚å‚¤‚¿‚á‚ñ‚Ë‚é"></label>
 	</form>
 
-	<!-- XV‚Å‚«‚Ä‚é‚©‚ÈH -->>
 
 </body>
 
